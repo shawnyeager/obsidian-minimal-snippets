@@ -1,0 +1,92 @@
+/* Catppuccin Macchiato overrides for Obsidian Minimal theme (Mauve variant) */
+
+.theme-light.minimal-catppuccin-light {
+  --color-red-rgb:    240,198,198 !important;
+  --color-orange-rgb: 245,169,127;
+  --color-yellow-rgb: 238,212,159;
+  --color-green-rgb:  166,218,149;
+  --color-cyan-rgb:   139,213,202;
+  --color-blue-rgb:   138,173,244;
+  --color-purple-rgb: 198,160,246;
+  --color-pink-rgb:   245,189,230;
+
+  --color-red:    #f0c6c6 !important;
+  --color-orange: #f5a97f;
+  --color-yellow: #eed49f;
+  --color-green:  #a6da95;
+  --color-cyan:   #8bd5ca;
+  --color-blue:   #8aadf4;
+  --color-purple: #c6a0f6;
+  --color-pink:   #f5bde6;
+
+  --base-h: 232;
+  --base-s: 23%;
+  --base-l: 18%;
+
+  --accent-h: 301;
+  --accent-s: 65%;
+  --accent-l: 71%;
+
+  --bg1: #24273a;
+  --bg2: #1e2030;
+  --bg3: rgba(147,154,183,0.25);
+
+  --ui1: #363a4f;
+  --ui2: #494d64;
+  --ui3: #5b6078;
+
+  --tx1: #cad3f5;
+  --tx2: #a5adcb;
+  --tx3: #b8c0e0;
+
+  --hl1: rgba(91,96,120,0.5);
+  --hl2: rgba(238,212,159,0.3);
+}
+
+.theme-dark.minimal-catppuccin-dark {
+  --color-red-rgb:    240,198,198 !important;
+  --color-orange-rgb: 245,169,127;
+  --color-yellow-rgb: 238,212,159;
+  --color-green-rgb:  166,218,149;
+  --color-cyan-rgb:   139,213,202;
+  --color-blue-rgb:   138,173,244;
+  --color-purple-rgb: 198,160,246;
+  --color-pink-rgb:   245,189,230;
+
+  --color-red:    #f0c6c6 !important;
+  --color-orange: #f5a97f;
+  --color-yellow: #eed49f;
+  --color-green:  #a6da95;
+  --color-cyan:   #8bd5ca;
+  --color-blue:   #8aadf4;
+  --color-purple: #c6a0f6;
+  --color-pink:   #f5bde6;
+
+  --base-h: 232;
+  --base-s: 23%;
+  --base-l: 18%;
+
+  --accent-h: 301;
+  --accent-s: 65%;
+  --accent-l: 71%;
+
+  --bg1: #24273a;
+  --bg2: #181926;
+  --bg3: rgba(147,154,183,0.25);
+
+  --ui1: #363a4f;
+  --ui2: #494d64;
+  --ui3: #5b6078;
+
+  --tx1: #cad3f5;
+  --tx2: #a5adcb;
+  --tx3: #b8c0e0;
+
+  --hl1: rgba(91,96,120,0.5);
+  --hl2: rgba(238,212,159,0.4);
+}
+
+.theme-dark.minimal-catppuccin-dark.minimal-dark-black {
+  --ui1: #181926;
+  --hl2: rgba(238,212,159,0.5);
+}
